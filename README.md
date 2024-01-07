@@ -1,5 +1,3 @@
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='10' height='10'></a>
-
 ### Hi there 👋, Md. Sohel Rana
 #### Web Development student
 ![Web Development student](https://scontent.fzyl2-1.fna.fbcdn.net/v/t39.30808-6/323417275_715277413542043_3113230533107845842_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeH9ZQFjrqcYzzcDlCa6TsCUXxWCy-RO4PRfFYLL5E7g9BubAJSmo0OOPycBpZZ9oLc6Sw7tTgnqznFea-Ui5WOr&_nc_ohc=TDd7gE5dcscAX9ue9y4&_nc_ht=scontent.fzyl2-1.fna&oh=00_AfDDUKDvdiHL9L3t8eWK7JbAX9VWWx_0fmei6yt6EiyPpg&oe=659EAB9D)
